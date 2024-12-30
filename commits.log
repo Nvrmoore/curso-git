@@ -1,0 +1,141 @@
+commit f0c36644c18ef431306176c10bdb5c16c8fc9126
+Merge: 290e6c1 0524f1f
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Mon Dec 30 01:24:38 2024 -0400
+
+    Merge branch 'main' of https://github.com/Nvrmoore/curso-git
+
+commit 290e6c11b547e940586b7f306974a20b8e68e623
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Mon Dec 30 01:10:48 2024 -0400
+
+    Agregando la letra a a todos los re
+
+commit 0524f1f6c3a487fe946cf04e6aa16766b27967fc
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Mon Dec 30 01:10:48 2024 -0400
+
+    Agregando parrafo
+
+commit d3d6c87ee66ec5935914bdc71ce213a5e3842783
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Mon Dec 30 01:05:46 2024 -0400
+
+    Añadiendo los RE
+
+commit 4699a86cb0609a2d5e3c2cc191ba6b6dd3797c5c
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Mon Dec 30 01:00:46 2024 -0400
+
+    Agregando nuevas estaciones
+
+commit 8f8c12d3ee1dab7c2de21d7df4339b291f7235ce
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Mon Dec 30 00:58:38 2024 -0400
+
+    Agrando contenido faltante a las estaciones del año
+
+commit b01f6acba829ceba871827a8f639cc6dd2ec1bc9
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sun Dec 29 19:45:19 2024 -0400
+
+    Agregando las estaciones del año
+
+commit 9a0400cee42debe4f43d7e3094fb8edc42b1e48d
+Merge: a27ae65 9133bfd
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sun Dec 29 03:43:00 2024 -0400
+
+    Resolviendo el conflicto entre main/html
+
+commit 9133bfdaa47eccfb7aed4e0de4ef250d7f7836a4
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sun Dec 29 03:40:04 2024 -0400
+
+    Agregando contenido al index.html de la rama html
+
+commit a27ae657284cbed01ed2e409fddc1f8b31a0da38
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sun Dec 29 03:36:49 2024 -0400
+
+    Agregando contenido a index.html del main
+
+commit 8f574bbf021fc3b10d8b754d192b64891c56c03b
+Merge: eb77b96 320af37
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sun Dec 29 03:21:16 2024 -0400
+
+    Merge branch 'js'
+
+commit eb77b966f1253d5c38712464737721d17dc9ac08
+Merge: 4af573d 68cdf72
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sun Dec 29 03:20:28 2024 -0400
+
+    Merge branch 'css'
+
+commit 320af3753474e30b1bd675f4390240c1a38e6247
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sun Dec 29 02:35:16 2024 -0400
+
+    Agregando index.js
+
+commit 68cdf7297aa02ca98aa85cc3f47248e8f5335aa0
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sun Dec 29 02:32:30 2024 -0400
+
+    Cambiando el nombre de style a styles
+
+commit 186fca192c24d58b12e1b34e191165010ff363e8
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sun Dec 29 00:59:24 2024 -0400
+
+    Agregando style.css
+
+commit 4af573da2a1a204d22a690759b13954810dd440f
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sun Dec 29 00:43:51 2024 -0400
+
+    Añadiendo index.html
+
+commit ab0368aeadc783682581b247c3ebd45e1fb6b5ad
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sat Dec 28 20:10:13 2024 -0400
+
+    practicando ignorar un archivo
+
+commit 699f8b4db4dde9d313a42862e263858bc020fd3b
+Author: Marlon Marcano <81209125+Nvrmoore@users.noreply.github.com>
+Date:   Sat Dec 28 19:36:43 2024 -0400
+
+    Creando licencia
+
+commit 02201656c024a98d831d5531b10d2b89389d45b5
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sat Dec 28 19:36:00 2024 -0400
+
+    borrando el archivo license
+
+commit 6adbc786eb34c11cda025212d10a3e2c02d7d662
+Author: Marlon Marcano <81209125+Nvrmoore@users.noreply.github.com>
+Date:   Sat Dec 28 19:33:16 2024 -0400
+
+    Creando licencia
+
+commit 2863f797387941eba850aa38611fcc8cbcb06fe0
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sat Dec 28 19:25:09 2024 -0400
+
+    Agregando nuevo contenido al README.md
+
+commit ada2187e044539e8a21c86d1bbb12e25d40e4a24
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sat Dec 28 19:12:01 2024 -0400
+
+    Segundo commit pero con -m
+
+commit 57381875f63e106ac9a8ce47d19eb7b8aa0c1cbc
+Author: Marlon Marcano <marlonjosemr@outlook.com>
+Date:   Sat Dec 28 19:05:39 2024 -0400
+
+    Primer Commit

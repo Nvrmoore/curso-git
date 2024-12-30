@@ -1,0 +1,32 @@
+*   f0c3664 Merge branch 'main' of https://github.com/Nvrmoore/curso-git
+|\  
+| * 0524f1f Agregando parrafo
+* | 290e6c1 Agregando la letra a a todos los re
+|/  
+* d3d6c87 Añadiendo los RE
+* 4699a86 Agregando nuevas estaciones
+* 8f8c12d Agrando contenido faltante a las estaciones del año
+* b01f6ac Agregando las estaciones del año
+*   9a0400c Resolviendo el conflicto entre main/html
+|\  
+| * 9133bfd Agregando contenido al index.html de la rama html
+* | a27ae65 Agregando contenido a index.html del main
+* |   8f574bb Merge branch 'js'
+|\ \  
+| * | 320af37 Agregando index.js
+* | |   eb77b96 Merge branch 'css'
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 68cdf72 Cambiando el nombre de style a styles
+| * | 186fca1 Agregando style.css
+| |/  
+* / 4af573d Añadiendo index.html
+|/  
+* ab0368a practicando ignorar un archivo
+* 699f8b4 Creando licencia
+* 0220165 borrando el archivo license
+* 6adbc78 Creando licencia
+* 2863f79 Agregando nuevo contenido al README.md
+* ada2187 Segundo commit pero con -m
+* 5738187 Primer Commit
